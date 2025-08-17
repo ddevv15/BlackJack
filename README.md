@@ -49,10 +49,6 @@ ddevv15-blackjack/
 └── game/
 └── BlackjackGameTest.java
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Setup & Run
@@ -112,3 +108,4 @@ Deck regeneration → Dealer auto-regenerates deck when empty.
 📜 License
 MIT License © 2025
 Authors: Dev KishorKumar Shah & Kirtan Manojkumar Patel
+
